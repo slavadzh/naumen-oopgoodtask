@@ -1,7 +1,7 @@
 package ru.oop.task2;
 
 /**
- * Транспортное средство
+ * Транспортное средство для перемещения человека в пункт назначения
  */
 public interface Transport extends Positioned {
     /**
